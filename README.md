@@ -1,4 +1,4 @@
-GitLab => [https://gitlab.com/ali-goektas/ali-goektas](https://gitlab.com/ali-goektas)
+GitLab => [https://gitlab.com/ali-goektas](https://gitlab.com/ali-goektas)
 <!--
 
 
